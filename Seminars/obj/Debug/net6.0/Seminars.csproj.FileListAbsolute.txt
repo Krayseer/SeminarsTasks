@@ -1,0 +1,15 @@
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\bin\Debug\net6.0\Seminars.exe
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\bin\Debug\net6.0\Seminars.deps.json
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\bin\Debug\net6.0\Seminars.runtimeconfig.json
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\bin\Debug\net6.0\Seminars.dll
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\bin\Debug\net6.0\Seminars.pdb
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\obj\Debug\net6.0\Seminars.csproj.AssemblyReference.cache
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\obj\Debug\net6.0\Seminars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\obj\Debug\net6.0\Seminars.AssemblyInfoInputs.cache
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\obj\Debug\net6.0\Seminars.AssemblyInfo.cs
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\obj\Debug\net6.0\Seminars.csproj.CoreCompileInputs.cache
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\obj\Debug\net6.0\Seminars.dll
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\obj\Debug\net6.0\refint\Seminars.dll
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\obj\Debug\net6.0\Seminars.pdb
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\obj\Debug\net6.0\Seminars.genruntimeconfig.cache
+C:\Users\evgen\OneDrive\Рабочий стол\Seminars\Seminars\obj\Debug\net6.0\ref\Seminars.dll
